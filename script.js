@@ -18,5 +18,11 @@ document
   .getElementById("report-link-btn")
   .addEventListener("click", function () {
     window.location.href =
-      "https://docs.google.com/document/d/1WSVxrYuDoMwpTGNf7S1q_h-C_mU_Gs8-GSIIf0sOTMU/edit?usp=sharing";
+      "https://iiitaphyd-my.sharepoint.com/:b:/g/personal/venkata_venkamsetty_students_iiit_ac_in/EXUBOIiTrc5Fl4lNnRxs-ZQBwS3S1jEeGRqiZg6-J4iUmA?e=pKPwTg"
+  });
+document
+  .getElementById("ppt-link-btn")
+  .addEventListener("click", function () {
+    window.location.href =
+      "https://iiitaphyd-my.sharepoint.com/:b:/g/personal/venkata_venkamsetty_students_iiit_ac_in/EXPU8P4SaPpPsQ_1AhfU3FABsuoKD4ig64NK86aSScMrvw?e=C7ayor"
   });
