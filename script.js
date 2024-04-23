@@ -18,7 +18,7 @@ document
   .getElementById("report-link-btn")
   .addEventListener("click", function () {
     window.location.href =
-      "https://iiitaphyd-my.sharepoint.com/:b:/g/personal/venkata_venkamsetty_students_iiit_ac_in/EXUBOIiTrc5Fl4lNnRxs-ZQBwS3S1jEeGRqiZg6-J4iUmA?e=pKPwTg"
+      "https://iiitaphyd-my.sharepoint.com/:b:/g/personal/venkata_venkamsetty_students_iiit_ac_in/EfRITpVXxwRAtfaX9YSMN7QBOtEeuSUlbbAFfopGqM429g?e=czSfep"
   });
 document
   .getElementById("ppt-link-btn")
